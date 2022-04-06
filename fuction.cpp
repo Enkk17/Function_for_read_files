@@ -5,7 +5,7 @@ string file_content()
     string filename;
  
     // we declare filename which corresponds to the file we want to open
-    filename = "password_test.txt";
+    filename = "test.txt";
  
     //open the file
     file.open(filename.c_str());
